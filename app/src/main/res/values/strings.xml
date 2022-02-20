@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DayFourthITIService</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">stop</string>
+    <string name="btn_service_intent">start intent service</string>
+</resources>
